@@ -1,1 +1,1 @@
-# base-HTML-and-SCC
+# base-HTML-and-CSS
